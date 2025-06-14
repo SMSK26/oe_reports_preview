@@ -2,9 +2,9 @@
 # This module is under copyright of 'OdooElevate'
 {
     'name': 'PDF Reports Preview',
-    'version': '18.0.0.1',
+    'version': '18.0.0.1.1',
     'website': 'https://odooelevate.odoo.com/',
-    'author': 'Sheikh Muhammad Saad',
+    'author': 'Sheikh Muhammad Saad, OdooElevate',
     'summary': 'Allows quick preview of PDF reports before downloading.',
     'description': """
         This module provides a convenient way to preview PDF reports before downloading directly within Odoo.
